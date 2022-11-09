@@ -7,4 +7,5 @@
 ./3.table/kmtnet/
 ./3.table/sn_sim_sncosmo_synphot/
 ./3.table/kn_sim_cube_lite/
-2.code/test.py
+*.tar.gz
+*.fits
